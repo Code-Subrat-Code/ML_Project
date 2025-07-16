@@ -4,4 +4,7 @@ python-dotenv #it will to read the enviroment variable
 mysql-connector-python
 pymysql #use to connect mysql
 scikit-learn
+seaborn
+catboost
+xgboost
 # -e .

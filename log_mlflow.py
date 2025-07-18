@@ -1,5 +1,3 @@
-## END TO END DATA SCIENCE PROJECT
-
 import dagshub
 dagshub.init(repo_owner='ssubratkumar75', repo_name='ML_Project', mlflow=True)
 
